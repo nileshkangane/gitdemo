@@ -3,4 +3,9 @@ class Users {
     function getUserById() {
         
     }
+
+    //added in MPD-57
+    searchUsers() {
+
+    }
 }
