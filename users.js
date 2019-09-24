@@ -3,4 +3,9 @@ class Users {
     getUserById() {
 
     }
+
+    //added in MPD-56
+    getUserByName() {
+
+    }
 }
