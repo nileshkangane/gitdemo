@@ -1,7 +1,12 @@
 class Users {
     //added in master
-    function getUserById() {
-        
+    getUserById() {
+
+    }
+
+    //added in MPD-56
+    getUserByName() {
+
     }
 
     //added in MPD-57
