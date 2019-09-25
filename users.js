@@ -8,4 +8,9 @@ class Users {
     getUserByName() {
 
     }
+
+    //added in MPD-57
+    searchUsers() {
+
+    }
 }
